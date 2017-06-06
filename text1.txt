@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 what is this file?
+=======
+is this file text1?
+>>>>>>> test1-1
